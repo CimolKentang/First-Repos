@@ -1,0 +1,4 @@
+Rencana saya untuk akhir tahun 2021
+- menguasai javascript dengan reactjs
+- menguasai php dengan laravel
+- menguasai python dengan django
