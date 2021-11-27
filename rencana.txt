@@ -4,4 +4,3 @@ Rencana saya untuk akhir tahun 2021
 - menguasai python dengan django
 - menguasai bahasa jepang
 - menguasai bahasa spanyol
-- menguasai bahasa mandarin
